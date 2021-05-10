@@ -12,6 +12,7 @@ export default () => {
         MI塾に通う生徒さん用のポータルアプリです。授業で用いる教材、MI塾からのお知らせ等の置き場にする予定です。
         開発途中のため不具合等あるかもしれませんが、ご了承ください。
       </Typography>
+      <Typography>misp.mi-juku.com</Typography>
       <Typography>developed by Y.M</Typography>
       <Button
         variant="outlined"
